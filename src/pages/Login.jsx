@@ -14,7 +14,7 @@ function Login() {
   return (
     <PhoneContainer>
 
-      <h2 className="text-2xl font-bold text-gray-800">Signin to your PopX account</h2>
+      <h2 className="text-2xl font-bold text-gray-800 w-[70%]">Signin to your PopX account</h2>
 
       <p className="text-sm text-gray-500 mt-2">
         Lorem ipsum dolor sit amet, consectetur adipiscing elit,
