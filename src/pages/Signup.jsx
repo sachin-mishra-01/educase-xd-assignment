@@ -18,7 +18,7 @@ function Signup() {
 
   return (
     <PhoneContainer>
-      <h2 className="text-3xl font-bold text-gray-800">Create your PopX account</h2>
+      <h2 className="text-2xl font-bold text-gray-800">Create your PopX account</h2>
 
       <div className="mt-6 space-y-4">
         <div>
